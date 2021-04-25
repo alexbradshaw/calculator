@@ -1,0 +1,25 @@
+.calculatorNumber{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 3%;
+    padding-right: 15%;
+}
+
+.calculatorLine{
+    display: flex; 
+    justify-content: center;
+    margin-top: 1%;
+}
+
+.customButton{
+    width: 90%;
+    height: 90%;
+    font-size: 70px;
+}
+
+.symbols{
+    width: 20%;
+    height: 17%;
+    margin-bottom: 2%;
+    font-size: 70px;
+}
